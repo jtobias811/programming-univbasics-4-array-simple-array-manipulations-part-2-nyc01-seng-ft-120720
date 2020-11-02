@@ -5,3 +5,5 @@ end
 def using_insert(array, "language")
   new_array = array.insert("Python")
 end
+
+def using_uniq(array)
