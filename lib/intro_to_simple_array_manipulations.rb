@@ -4,5 +4,4 @@ end
 
 def using_insert(array, language)
   new_array = array.insert("language")
-
 end
