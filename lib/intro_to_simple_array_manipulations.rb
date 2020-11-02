@@ -3,5 +3,5 @@ def using_concat(my_favorite_things, more_favs)
 end
 
 def using_insert(array, language)
-  new_array = array.insert("language")
+  new_array = array.insert("Python")
 end
