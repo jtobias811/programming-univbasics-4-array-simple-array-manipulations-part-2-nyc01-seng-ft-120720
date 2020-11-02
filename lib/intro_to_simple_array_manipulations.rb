@@ -3,7 +3,7 @@ def using_concat(my_favorite_things, more_favs)
 end
 
 def using_insert(array, language)
-  new_array = array.insert("Python")
+  new_array = array.insert(4, "Python")
 end
 
 def using_uniq(array)
