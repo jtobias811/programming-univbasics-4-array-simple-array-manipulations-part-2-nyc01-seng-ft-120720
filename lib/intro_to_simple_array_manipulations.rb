@@ -8,3 +8,5 @@ end
 
 def using_uniq(array)
 end
+
+using_flatten(array)
