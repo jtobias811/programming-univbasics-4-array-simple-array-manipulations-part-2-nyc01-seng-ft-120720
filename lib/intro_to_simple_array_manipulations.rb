@@ -7,6 +7,7 @@ def using_insert(array, "language")
 end
 
 def using_uniq(array)
+  new_array = using_uniq(array)
 end
 
 def using_flatten(array)
