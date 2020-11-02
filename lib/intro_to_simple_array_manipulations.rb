@@ -1,1 +1,2 @@
-def using_concat(array1, array2)
+def using_concat(my_favorite_things, more_favs)
+  my_favorite_things.concat(more_favs)
